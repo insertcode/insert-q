@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/insertcode/insert-vox/issues"
   },
-  "homepage": "https://github.com/insertcode/insert-vox#readme"
+  "homepage": "https://github.com/insertcode/insert-vox#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "nodemon": "^2.0.7",
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "fastify": "^3.14.2"
+  }
 }
