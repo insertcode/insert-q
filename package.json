@@ -1,0 +1,19 @@
+{
+  "name": "insert-vox",
+  "version": "1.0.0",
+  "description": "App de Q&A para Insert Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insertcode/insert-vox.git"
+  },
+  "author": "Xabadu <xabadu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insertcode/insert-vox/issues"
+  },
+  "homepage": "https://github.com/insertcode/insert-vox#readme"
+}
