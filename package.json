@@ -26,6 +26,9 @@
     "prettier": "2.2.1"
   },
   "dependencies": {
-    "fastify": "^3.14.2"
+    "dotenv": "^8.2.0",
+    "fastify": "^3.14.2",
+    "knex": "^0.95.4",
+    "mysql2": "^2.2.5"
   }
 }
