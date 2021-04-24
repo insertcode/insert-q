@@ -10,6 +10,7 @@ module.exports = {
       database : process.env.DB_DB
     },
     migrations: {
+      directory: './db/migrations',
       tableName: 'migrations'
     }
   },
