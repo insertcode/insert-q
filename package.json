@@ -4,6 +4,8 @@
   "description": "App de Q&A para Insert Code",
   "main": "index.js",
   "scripts": {
+    "db:migrate": "knex migrate:latest",
+    "db:rollback": "knex migrate:rollback",
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
