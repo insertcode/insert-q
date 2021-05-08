@@ -1,6 +1,6 @@
 # Insert Q
 
-Esta es la app para Q&A que usamos en Insert Code
+Q&A app for Insert Code
 
 ## Setup and local development
 
